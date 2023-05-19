@@ -175,17 +175,20 @@ header hr {
   position: relative;
   top: 5px;
   box-shadow: 1px 1px 1px gray;
+
 }
 #choose {
   background-color: white;
-  width: 90%;
-  height: 40vh;
-  border-width: 1px;
-  position: absolute;
-  z-index: 30;
+  width: 80%;
+  height: 50vh;
+  border-radius: 5px;
   border-style: dashed;
+  border-width: 1px;
   border-color: rgba(165, 49, 0, 0.517);
-
+  position: fixed;
+  top: 40vh;
+  left: 10vw;
+  z-index: 30;
 }
 
 #fblogo {
