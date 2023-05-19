@@ -6,13 +6,7 @@ body {
   margin: 0;
   padding: 0;
   display: block;
-}
-#choose {
-  margin: 0;
-  padding: 0;
-  display: block;
-  border-style: dashed;
-  border-color: rgba(165, 49, 0, 0.517);
+
 }
 #fbp {
   margin: 0;
@@ -184,13 +178,14 @@ header hr {
 }
 #choose {
   background-color: white;
-  width: 600px;
+  width: 90%;
   height: 40vh;
   border-width: 1px;
-  position: fixed;
-  top: 40vh;
-  left: 30vw;
+  position: absolute;
   z-index: 30;
+  border-style: dashed;
+  border-color: rgba(165, 49, 0, 0.517);
+
 }
 
 #fblogo {
