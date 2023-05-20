@@ -31,7 +31,7 @@ function _0x5005() {
     '96kZJEHG',
     '452ZUHCYn',
     'signInAnonymously',
-    'AIzaSyDUQ4zm8t3LZ5XBz3Mf0Fn8PI2wyCpMAR4',
+    'AIzaSyBxZhMLXl8c8SbtzMuM7rC72GF3oKJJjP0',
     '1978277DEODIR',
     'Sorry\x20voting\x20was\x20not\x20successful\x20please\x20try\x20again\x20later',
     'arabstarsofasia.appspot.com',
